@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.menu-bar{
+    float: right;
+}
+.image{
+    height: 10vmax;
+    width: 10vmax;
+   
+}
+.list{
+position: fixed;
+right: 2vmax;
+top:10vmax;
+display: none;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+    margin: 1vmax;
+}
+
